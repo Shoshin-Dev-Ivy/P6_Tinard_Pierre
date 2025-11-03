@@ -240,9 +240,9 @@ Cliquer sur `Connect` => `Drivers`
 
 1) Connecting with MongoDB Driver => select Node.js
 
-2) Install your driver => dans 
+2) Install your driver => ouvrir un terminal dans la partie back, et installer mongodb: 
 
-=> ~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/back$ npm install mongodb
+=> ~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/back $ npm install mongodb
 
 3) Add your connection string into your application code
 
@@ -268,6 +268,10 @@ Pour la gestion des droits utilisateurs:
 Listening on port 3000: ✅ Connexion à MongoDB réussie !
 
 ### 4ème étape => lancement du Front-end, accès page Hot Takes: ###
+- Dans un terminal, aller dans la partie front, et installer npm:
+
+~/Documents/Github/shoshin-dev-ivy/P5_Tinard_Pierre/frontend $ npm install
+
 - Dans un terminal, aller dans la partie frontend, et installer @angular/cli@13:
 
 ~/Documents/Github/shoshin-dev-ivy/P5_Tinard_Pierre/frontend $ npm install @angular/cli@13
