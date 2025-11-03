@@ -272,7 +272,7 @@ Listening on port 3000: ✅ Connexion à MongoDB réussie !
 
 ~/Documents/Github/shoshin-dev-ivy/P5_Tinard_Pierre/frontend $ npm install
 
-- Dans un terminal, aller dans la partie frontend, et installer @angular/cli@13:
+- Ensuite installer @angular/cli@13:
 
 ~/Documents/Github/shoshin-dev-ivy/P5_Tinard_Pierre/frontend $ npm install @angular/cli@13
 
