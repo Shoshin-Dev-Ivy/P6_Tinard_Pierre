@@ -224,7 +224,7 @@ Ensuite open folder => P6_Tinard_Pierre
 ### 2ème étape => création base de données Hot Takes: ###
 Sur https://cloud.mongodb.com/:
 
-Créer un projet P6 Hot Takes, (name et password) et dedans un cluster, le nommer P6HotTakes:
+Créer un projet P6 Hot Takes, (name et password) => créer un cluster, le nommer P6HotTakes:
 
 - Sélectionner Free
 
