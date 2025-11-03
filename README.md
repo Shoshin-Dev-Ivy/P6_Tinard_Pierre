@@ -248,7 +248,7 @@ Cliquer sur `Connect` => `Drivers`
 
 Dans la partie backend, créer un fichier .env, et y ajouter les fichiers suivants:
 
-=> MONGOOSE_KEY='mongodb+srv://ShoshinDevIvy:<password>@p6hottakes.xbqmiyp.mongodb.net/p6hottakes?retryWrites=true&w=majority&appName=P6HotTakes'
+=> MONGOOSE_KEY='mongodb+srv://ShoshinDevIvy:< password >@p6hottakes.xbqmiyp.mongodb.net/p6hottakes?retryWrites=true&w=majority&appName=P6HotTakes'
 
 Changer <password> par le mot de passe créé pour accéder à MongoDB.
 
