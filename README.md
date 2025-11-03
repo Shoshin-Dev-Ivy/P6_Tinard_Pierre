@@ -1,4 +1,4 @@
-# P6_Hot Takes #
+# P6_Hot_Takes #
 
 ## Contexte: ##
 Création d’une API sécurisée pour une pour une application d'évaluation de sauces.
