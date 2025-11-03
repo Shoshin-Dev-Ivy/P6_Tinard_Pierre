@@ -259,24 +259,24 @@ Pour la gestion des droits utilisateurs:
 ### 3ème étape => lancement du Back-end, appel à l'API: ###
 - Dans un terminal, aller dans la partie back, et installer npm:
 
-~/Documents/Github/shoshin-dev-ivy/P5_Tinard_Pierre/back $ npm install
+~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/back $ npm install
 
 - Lancer l'appel à l'API:
 
-~/Documents/Github/shoshin-dev-ivy/P5_Tinard_Pierre/back $ npm start
+~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/back $ npm start
 
 Listening on port 3000: ✅ Connexion à MongoDB réussie !
 
 ### 4ème étape => lancement du Front-end, accès page Hot Takes: ###
 - Dans un terminal, aller dans la partie front, et installer npm:
 
-~/Documents/Github/shoshin-dev-ivy/P5_Tinard_Pierre/frontend $ npm install
+~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/frontend $ npm install
 
 - Ensuite installer @angular/cli@13:
 
-~/Documents/Github/shoshin-dev-ivy/P5_Tinard_Pierre/frontend $ npm install @angular/cli@13
+~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/frontend $ npm install @angular/cli@13
 
-~/Documents/Github/shoshin-dev-ivy/P5_Tinard_Pierre/frontend $ npm start
+~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/frontend $ npm start
 
 ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 
