@@ -246,11 +246,13 @@ Cliquer sur `Connect` => `Drivers`
 
 3) Add your connection string into your application code
 
-Dans la partie backend, créer un fichier .env, et y ajouter les fichiers suivants:
+Dans la partie backend, créer un fichier .env, et y ajouter les fichiers suivants: MONGOOSE_KEY / TOKEN_KEY
 
 => MONGOOSE_KEY='mongodb+srv://ShoshinDevIvy:< password >@p6hottakes.xbqmiyp.mongodb.net/p6hottakes?retryWrites=true&w=majority&appName=P6HotTakes'
 
-Changer <password> par le mot de passe créé pour accéder à MongoDB.
+(Changer <password> par le mot de passe créé pour accéder à MongoDB.)
+
+Pour la gestion des droits utilisateurs:
 
 => TOKEN_KEY='RANDOM_TOKEN_SECRET'
 
