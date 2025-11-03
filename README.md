@@ -198,8 +198,8 @@ des modifications à celle-ci.
 - Le contenu du dossier images ne doit pas être téléchargé sur GitHub.
 
 ## Structure du projet: ##
-/backend   # Node.js, Express, MongoDB
-/frontend  # Angular 13
+/ backend   # Node.js, Express, MongoDB
+/ frontend  # Angular 13
 
 ## Remarques / points particuliers: ##
 - Le backend utilise Mongoose 7
