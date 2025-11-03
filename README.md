@@ -286,5 +286,5 @@ La page Hot Takes est accessible, lié au Backend du P6HotTakes.
 
 - Vous pouvez créer plusieurs utilisateurs:
 
-- Ils pourront créer des sauces, avec images, et mettre un like ou l'enlever sur toutes les sauces créees.
+- Ils pourront créer des sauces, avec images, et mettre un like ou l'enlever sur toutes les sauces créées.
 
