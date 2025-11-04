@@ -256,7 +256,7 @@ Pour la gestion des droits utilisateurs:
 
 => TOKEN_KEY='RANDOM_TOKEN_SECRET'
 
-### 3ème étape => lancement du Back-end, appel à l'API: ###
+### 3ème étape => lancement du Back-end, appel de l'API vers MongoDB: ###
 - Dans un terminal, aller dans la partie back, et installer npm:
 
 ~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/back $ npm install
