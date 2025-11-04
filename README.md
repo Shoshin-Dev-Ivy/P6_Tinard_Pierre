@@ -261,7 +261,7 @@ Pour la gestion des droits utilisateurs:
 
 ~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/back $ npm install
 
-- Lancer l'appel à l'API:
+- Lancer l'appel de l'API vers MongoDB:
 
 ~/Documents/Github/shoshin-dev-ivy/P6_Tinard_Pierre/back $ npm start
 
